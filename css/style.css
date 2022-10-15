@@ -1,0 +1,167 @@
+body {
+    background-color: #000000;
+    color: #E4B455;
+}
+
+.cabecalho {
+   background-color: #000000;
+   text-align: center;
+}
+
+.titulo-principal {
+    width: 200px;
+    height: 200px;
+}
+
+.menu-lateral {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFBD59;
+    font-size: 20px;
+    padding: 8px;
+    align-content: center;
+    background:#000000;
+}
+
+.divisao-botao {
+    display: contents;
+}
+
+.lateral-cardapio {
+    width: 15rem;
+    border-radius: 32.5rem;
+    background: #A20000;
+    justify-self: center;
+}
+
+.lateral-quem-somos {
+    width: 15rem;
+    border-radius: 32.5rem;
+    background: #A20000;
+    margin-top: 5px;
+}
+
+.lateral-contato {
+    width: 15rem;
+    border-radius: 32.5rem;
+    background: #A20000;
+    margin-top: 5px;
+}
+
+.lateral-pedido {
+    width: 15rem;
+    border-radius: 32.5rem;
+    background: #A20000;
+    margin-top: 5px;
+}
+
+.titulo-cardapio {
+    width:320px;
+}
+
+.cardapio {
+    align-items: center;
+}
+
+.pizzas {
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4em;
+}
+
+.sabor-pizzas {
+    font-size: 25px;
+    padding-top: 2rem;
+    font-family: "Medula One";
+    font-weight: bold;
+    padding-left: 0.5rem;
+}
+
+.imagem-pizza {
+    padding-top: 0.5rem;
+    width: 320px;
+    height: 250px;
+    border-radius: 1.5rem;
+}
+
+.descricao-sabor {
+    font-size: 18px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+}
+
+.valores {
+    font-size: 20px;
+    padding-top: 1rem;
+    font-weight: bold;
+    padding-left: 0.5rem;
+}
+
+.titulo-bebidas {
+    padding-top: 2rem;
+    padding-left: 0.5rem;
+    font-size: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4em;
+}
+
+.nome-bebida {
+    font-size: 20px;
+    padding-top: 2rem;
+    padding-left: 0.5rem;
+}
+
+.preco-bebida {
+    font-size: 18px;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.foto-bebida {
+    width: 110px;
+    align-content: center;
+    border-radius: 00.5rem;
+    padding-left: 3rem;
+}
+
+.quem-somos {
+    font-size: 30px;
+}
+
+.titulo-historia {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    padding-top: 2rem;
+}
+  
+.blocktext {
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+}
+
+.contato {
+    font-size: 30px;
+}
+
+.titulo-contato {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+    padding-top: 2rem;
+}
+
+.texto-contato {
+    font-size: 20px;
+    margin: 1rem;
+}
+
